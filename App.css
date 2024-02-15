@@ -1,0 +1,20 @@
+.tableData-cls {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  padding: 40px
+}
+.tableData-sub-cls{
+  box-shadow: 4px 4px 4px 4px lightgrey;
+   padding: 40px;
+}
+.displayForm-cls{
+  background-color: #1976d2; padding: 10px; margin-bottom: 20px
+}
+.editModal-cls{
+  padding: 20px; background: #fff; border-radius: 8px; position: absolute; top: 80%; left: 0px; z-index: 999; box-shadow: 4px 4px 4px 4px lightgrey;
+}
+.icon-pointer-cls{
+  cursor: pointer;
+}
